@@ -10,7 +10,8 @@
 .m-location-box>*{
     box-sizing:border-box;
 }
-.m-location-box li{
+.m-location-box 
+li{
     list-style-type: none;
 }
 .m-locaiton-list {

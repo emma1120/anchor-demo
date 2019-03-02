@@ -3,7 +3,7 @@
 
 
 ### 页面效果
-![image](https://github.com/emma1120/anchor-demo/master/demo.jpeg)
+https://github.com/emma1120/anchor-demo/blob/master/demo.jpeg)
 
 ##### 发现问题待解决
 > 为什么有的静态页面直接打开 会在url后面自动加#／
